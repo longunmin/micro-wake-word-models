@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "Hey Friday",
+  "wake_word": "hey friday",
   "author": "Kevin Ahrendt",
   "website": "https://www.kevinahrendt.com/",
   "model": "./hey_friday.tflite",
