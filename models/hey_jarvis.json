@@ -1,9 +1,9 @@
 {
   "type": "micro",
-  "wake_word": "Hey Jarvis",
+  "wake_word": "Hey Friday",
   "author": "Kevin Ahrendt",
   "website": "https://www.kevinahrendt.com/",
-  "model": "./hey_jarvis.tflite",
+  "model": "./hey_friday.tflite",
   "version": 1,
   "micro": {
     "probability_cutoff": 0.5,
